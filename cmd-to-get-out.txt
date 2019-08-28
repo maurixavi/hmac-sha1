@@ -1,0 +1,5 @@
+1) Compilar: 
+make
+
+2) Ejecutar:
+./hmac-sha1
